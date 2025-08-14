@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+🎨 Making videos about Computer Science, tech, and productivity on YouTube
+🌷 #learninginpublic in my digital garden
+💭 Currently learning about data analytics and dataviz!
 -->
+
+👩🏻‍🎓 Studied Data Science at the University of Auckland, New Zealand
+
